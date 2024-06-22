@@ -19,7 +19,7 @@ a{
 }
 
  .header_width .nav {
-    /* background-color: aqua; */
+    
     width: 9%;
     float: left;
     margin-left: 5%;
@@ -31,3 +31,4 @@ a{
     margin: auto;
     text-align: center;
 }
+ 
